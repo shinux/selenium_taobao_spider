@@ -1,0 +1,5 @@
+ipython==5.3.0
+selenium==3.0.2
+pymongo==3.3.0
+pytime==0.2.0
+seaborn==0.7.1
